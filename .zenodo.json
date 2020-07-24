@@ -4,18 +4,33 @@
    "publication_date": "2020-07-08", 
    "creators": [
       {
-         "name": "Matthew Thompson",
+         "name": "Thompson, Matthew",
          "affiliation": "GMAO SSAI",
          "orcid": "0000-0001-6222-6863"
       }, 
       {
-         "name": "Robert Yantosca",
+         "name": "Yantosca, Robert",
          "affiliation": "Harvard!"
+      },
+      {
+         "name": "Clune, Tom",
+         "affiliation": "NASA"
       }
    ],
    "contributors": [
       {
-         "name": "Tom Clune",
+         "name": "Thompson, Matthew",
+         "affiliation": "GMAO SSAI",
+         "orcid": "0000-0001-6222-6863",
+         "type": "ContactPerson"
+      }, 
+      {
+         "name": "Yantosca, Robert",
+         "affiliation": "Harvard!",
+         "type": "DataCurator"
+      },
+      {
+         "name": "Clune, Tom",
          "affiliation": "NASA",
          "type": "ProjectLeader"
       }
