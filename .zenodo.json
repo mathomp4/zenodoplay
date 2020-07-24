@@ -5,11 +5,19 @@
    "creators": [
       {
          "name": "Matthew Thompson",
-         "affiliation": "GMAO SSAI"
+         "affiliation": "GMAO SSAI",
+         "orcid": "0000-0001-6222-6863"
       }, 
       {
          "name": "Robert Yantosca",
          "affiliation": "Harvard!"
+      }
+   ],
+   "contributors": [
+      {
+         "name": "Tom Clune",
+         "affiliation": "NASA",
+         "type": "ProjectLeader"
       }
    ],
    "keywords": [
