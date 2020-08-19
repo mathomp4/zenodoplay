@@ -1,7 +1,6 @@
 {
    "license": "other-open", 
    "upload_type": "software", 
-   "publication_date": "2020-07-08", 
    "creators": [
       {
          "name": "Thompson, Matthew",
@@ -9,12 +8,12 @@
          "orcid": "0000-0001-6222-6863"
       }, 
       {
-         "name": "Yantosca, Robert",
-         "affiliation": "Harvard!"
+         "name": "Chakraborty, Purnendu"
       },
       {
          "name": "Clune, Tom",
-         "affiliation": "NASA"
+         "affiliation": "NASA",
+         "orcid": "0000-0003-3320-0204"
       }
    ],
    "contributors": [
@@ -25,20 +24,17 @@
          "type": "ContactPerson"
       }, 
       {
-         "name": "Yantosca, Robert",
-         "affiliation": "Harvard!",
-         "type": "DataCurator"
-      },
-      {
          "name": "Clune, Tom",
          "affiliation": "NASA",
+         "orcid": "0000-0003-3320-0204",
          "type": "ProjectLeader"
       }
    ],
    "keywords": [
-      "github",
-      "json",
-      "stuff"
+      "git",
+      "repository",
+      "python",
+      "yaml"
    ],
    "access_right": "open"
 }
