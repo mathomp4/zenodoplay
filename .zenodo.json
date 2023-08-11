@@ -53,7 +53,8 @@
    "subjects": [
       {
          "term": "Computer and Information Sciences",
-         "scheme": "https://www.wikidata.org/wiki/Q21198"
+         "identifier": "https://www.wikidata.org/wiki/Q21198",
+         "scheme": "url"
       }
    ],
    "access_right": "open"
