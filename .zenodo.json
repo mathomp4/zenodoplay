@@ -1,5 +1,6 @@
 {
    "title": "Exploring zenodo with JSON",
+   "description": "This is a test of the Zenodo API using JSON",
    "license": "other-open", 
    "upload_type": "software", 
    "creators": [
