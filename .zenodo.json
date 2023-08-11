@@ -49,5 +49,11 @@
       "python",
       "yaml"
    ],
+   "subjects": [
+      {
+         "term": "Computer and Information Sciences",
+         "scheme": "https://www.wikidata.org/wiki/Q21198"
+      }
+   ],
    "access_right": "open"
 }
