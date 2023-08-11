@@ -47,7 +47,8 @@
       "git",
       "repository",
       "python",
-      "yaml"
+      "yaml",
+      "utility"
    ],
    "subjects": [
       {
