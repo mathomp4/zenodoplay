@@ -1,55 +1,37 @@
 {
-   "title": "Exploring zenodo with JSON",
-   "description": "This is from the description field",
+   "title": "Quick Fire Emissions Dataset (QFED)",
+   "description": "The Quick Fire Emissions Dataset (QFED) uses satellite-retrieved fire radiative power (FRP) to estimate fire emissions globally. The principal QFED product (Level 3A) contains gridded FRP stratified by biome. The Level 3B product provides gridded biomass burning emissions for a number of pyrogenic species.",
    "notes": "This is from the notes field",
-   "license": "other-open", 
-   "upload_type": "software", 
+   "license": "Apache-2.0",
+   "upload_type": "software",
    "creators": [
       {
-         "name": "Thompson, Matthew",
-         "affiliation": "GMAO SSAI",
-         "orcid": "0000-0001-6222-6863"
-      }, 
-      {
-         "name": "Chakraborty, Purnendu",
-         "affiliation": "SSAI",
-         "orcid": "0009-0002-7139-779X"
-      }, 
-      {
-         "name": "Jamieson, William",
-         "affiliation": "Space Telescope Science Institute",
-         "orcid": "0000-0001-5976-4492"
-      }, 
-      {
-         "name": "Clune, Tom",
+         "name": "da Silva, Arlindo",
          "affiliation": "NASA",
-         "orcid": "0000-0003-3320-0204"
+         "orcid": "0000-0002-3381-4030"
       },
       {
-         "name": "Deconinck, Florian",
-         "affiliation": "NASA SSAI",
-         "orcid": "0000-0002-0925-917X"
+         "name": "Collow, Allison",
+         "affiliation": "University of Maryland",
+         "orcid": "0000-0002-3566-3889"
+      },
+      {
+         "name": "Darmenov, Anton",
+         "affiliation": "NASA",
+         "orcid": "0000-0003-4993-8078"
       }
    ],
    "contributors": [
       {
-         "name": "Thompson, Matthew",
-         "affiliation": "GMAO SSAI",
-         "orcid": "0000-0001-6222-6863",
-         "type": "ContactPerson"
-      }, 
-      {
-         "name": "Clune, Tom",
+         "name": "da Silva, Arlindo",
          "affiliation": "NASA",
-         "orcid": "0000-0003-3320-0204",
+         "orcid": "0000-0002-3381-4030",
          "type": "ProjectLeader"
       }
    ],
    "keywords": [
-      "git",
-      "repository",
-      "python",
-      "yaml",
+      "qfed",
+      "radiation",
       "utility"
    ],
    "subjects": [
